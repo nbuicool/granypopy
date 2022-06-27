@@ -1,1 +1,12 @@
-dddd
+//appKey IronSource
+AppKeyBegin##{1375963b1}##LastAppKey
+//Enable ads :if you want show ads write true 
+EnableAdsBegin##{false}##LastEnableAds
+//if you want to share game you should past url of the game in story
+ShareBegin##{sharegame}##LastShare
+// Rate of the game
+RateUsBegin##{rateus}##LastRateUs
+//add More game past url of the stor
+moregameBegin##{moregame}##Lastmoregame	
+//OneSignal Id 
+OneSignalIdBegin##{21f3eb74-5c30-4be7-b00b-b5e8e6fb7c1e}##LastOneSignalId
